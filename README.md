@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Adarsh Gogate</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Adarsh Gogate 👋  
+🚀 Full-Stack Developer | Building Scalable Apps & Smart Solutions  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgogate&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgogate" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshgogate" alt="adarshgogate" /></a> </p>
+## 🔥 About Me  
+- 💻 Passionate about building modern applications and solving real-world problems.  
+- 🌱 Exploring advanced backend systems, scalable APIs, and cloud-native solutions.  
+- 🤝 Open to collaborations on impactful projects.  
 
-- 🌱 I’m currently learning **Node and Angular JS**
+---
 
-- 📫 How to reach me **gogateadarsh@gmail.com**
+## 🛠️ Tech Stack  
+- **Languages:** Java, C, C++, Python, PHP  
+- **Frameworks:** Spring Boot, React.js, Flutter, Node.js  
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Git, REST APIs, Docker  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adarshgogate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshgogate" height="30" width="40" /></a>
-<a href="https://fb.com/adarsh__gogate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh__gogate" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh__gogate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh__gogate" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarsh gogate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh gogate" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarsh gogate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh gogate" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects  
+- 🩸 **Blood Donor App** – Connecting donors & recipients with real-time data.  
+- 📊 **Habit Tracker App** – Track habits, streaks, and visualize progress.  
+- 🤖 **AI Chatbot** – Smart assistant powered by NLP & AI frameworks.  
 
+---
+
+## 📫 Contact Me  
+- 📧 Email: [gogateadarsh@gmail.com](mailto:gogateadarsh@gmail.com)  
+- 💼 LinkedIn: [Adarsh Gogate](https://www.linkedin.com/in/adarsh-gogate/)  
+
+---
+
+✨ *“Code is not just about solving problems, it’s about creating possibilities.”* ✨  
